@@ -13,3 +13,5 @@
 >>6. JDBC implements CRUD function.
 >>7. Todo-Id referenced to edit or delete specific item and hide from view.
 
+* Introduction
+
