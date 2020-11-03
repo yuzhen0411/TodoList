@@ -16,14 +16,19 @@
 * Introduction
 
 
+
 RegisterPage(Take duplicated username for example)
-![image](https://github.com/yuzhen0411/TodoList/blob/master/todo_form.PNG)
+
+![image](https://github.com/yuzhen0411/TodoList/blob/master/register_exist.PNG)
 
 LoginPage
-https://github.com/yuzhen0411/TodoList/blob/master/login.PNG
+
+![image](https://github.com/yuzhen0411/TodoList/blob/master/login.PNG)
 
 TodoList
-https://github.com/yuzhen0411/TodoList/blob/master/todo_list.PNG
+
+![image](https://github.com/yuzhen0411/TodoList/blob/master/todo_list.PNG)
 
 TodoForm
-https://github.com/yuzhen0411/TodoList/blob/master/todo_form.PNG
+
+![image](https://github.com/yuzhen0411/TodoList/blob/master/todo_form.PNG)
