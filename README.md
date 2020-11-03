@@ -15,7 +15,7 @@
 
 * Introduction
 RegisterPage(Take duplicated username for example)
-![image] https://github.com/yuzhen0411/TodoList/blob/master/todo_form.PNG
+![image](https://github.com/yuzhen0411/TodoList/blob/master/todo_form.PNG)
 
 LoginPage
 https://github.com/yuzhen0411/TodoList/blob/master/login.PNG
