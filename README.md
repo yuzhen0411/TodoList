@@ -18,17 +18,17 @@
 
 
 >>RegisterPage(Take duplicated username for example)
-
+>>
 >>![image](https://github.com/yuzhen0411/TodoList/blob/master/register_exist.PNG)
-
+>>
 >>LoginPage
-
+>>
 >>![image](https://github.com/yuzhen0411/TodoList/blob/master/login.PNG)
-
+>>
 >>TodoList
-
+>>
 >>![image](https://github.com/yuzhen0411/TodoList/blob/master/todo_list.PNG)
-
+>>
 >>TodoForm
-
+>>
 >>![image](https://github.com/yuzhen0411/TodoList/blob/master/todo_form.PNG)
