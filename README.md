@@ -14,6 +14,8 @@
 >>7. Todo-Id referenced to edit or delete specific item and hide from view.
 
 * Introduction
+
+
 RegisterPage(Take duplicated username for example)
 ![image](https://github.com/yuzhen0411/TodoList/blob/master/todo_form.PNG)
 
